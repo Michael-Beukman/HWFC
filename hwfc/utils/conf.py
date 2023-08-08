@@ -1,0 +1,42 @@
+PLOT_IMAGES = False
+EXTRA_FILE = 'all_exps/scratch'
+
+MAX_PATTERN_OCCURRENCE = 10
+
+IMAGE_COLOUR_MAP = {
+        -1: 'lightblue',
+        0: 'GREEN',
+        1: 'RED',
+        2: 'RED',
+        3: 'BLACK',
+        4: 'BLACK',
+        5: 'BLACK',
+        6: 'BLACK',
+        7: 'BROWN',
+        8: 'BROWN',
+        9: 'BROWN',
+        10: 'BROWN',
+        11: 'WHITE',
+        12: 'WHITE',
+        13: 'WHITE',
+        14: 'WHITE',
+        15: 'YELLOW',
+        16: 'BLUE',
+        17: 'BLUE',
+        18: 'BROWN',
+        19: 'BROWN',
+        20: 'ORANGE',
+        21: 'BLACK',
+        22: 'BLACK',
+        23: 'BLACK',
+        24: 'BLACK',
+        25: 'GREY',
+        26: 'BROWN',
+        27: 'BROWN',
+        28: 'BROWN',
+        29: 'BROWN',
+        30: 'BLUE',
+        31: 'BLUE',
+        32: 'BLUE',
+        33: 'BLUE',
+    }
