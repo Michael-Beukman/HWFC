@@ -1,7 +1,7 @@
 # HWFC - Hierarchical WaveFunction Collapse
 
 <p align="center">
-<a href="#how-this-works">Generation Approach</a> &mdash; <a href="#environment-setup">Get Started</a> &mdash; <a href="#demo">Demo</a> &mdash; <a href="#examples">Examples</a>  &mdash; <a href="#TODO">Paper</a> 
+<a href="#how-this-works">Generation Approach</a> &mdash; <a href="#environment-setup">Get Started</a> &mdash; <a href="#demo">Demo</a> &mdash; <a href="#examples">Examples</a>  &mdash; <a href="https://ojs.aaai.org/index.php/AIIDE/article/download/27498/27271">Paper</a> 
 </p>
 
 - [HWFC - Hierarchical WaveFunction Collapse](#hwfc---hierarchical-wavefunction-collapse)
