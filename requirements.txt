@@ -30,7 +30,7 @@ PyYAML==6.0
 rich==13.4.2
 scalene==1.5.22.2
 seaborn==0.11.2
-sip==4.19.13
+sip>=4.19.13
 snakeviz==2.1.1
 termcolor==2.3.0
 tomli==2.0.1
